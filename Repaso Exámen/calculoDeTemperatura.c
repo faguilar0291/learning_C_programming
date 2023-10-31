@@ -1,3 +1,8 @@
+/*
+Programa que permite realizar conversión/pasaje de
+temperatura entre C° y F°
+*/
+
 #include <stdio.h>
 
 int menu_seleccion(){

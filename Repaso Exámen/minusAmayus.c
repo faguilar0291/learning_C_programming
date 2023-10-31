@@ -1,3 +1,7 @@
+/*
+Programa que permite pasar caracteres de minúscula 
+a mayúscula
+*/
 #include <stdio.h>
 
 char minus_a_mayus (char c1){
