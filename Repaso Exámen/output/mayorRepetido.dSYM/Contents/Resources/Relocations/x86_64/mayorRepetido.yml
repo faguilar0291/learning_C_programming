@@ -1,0 +1,10 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     "/Users/fernandoaguilar/DEV/c_programming/learning_C_programming/Repaso Exámen/output/mayorRepetido"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003D10, symSize: 0x80 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003D10, symSize: 0x80 }
+  - { offsetInCU: 0x79, offset: 0x79, size: 0x8, addend: 0x0, symName: _cargarVector, symObjAddr: 0x80, symBinAddr: 0x100003D90, symSize: 0x80 }
+  - { offsetInCU: 0xD5, offset: 0xD5, size: 0x8, addend: 0x0, symName: _mostrarVector, symObjAddr: 0x100, symBinAddr: 0x100003E10, symSize: 0x60 }
+  - { offsetInCU: 0x107, offset: 0x107, size: 0x8, addend: 0x0, symName: _buscarRepetidos, symObjAddr: 0x160, symBinAddr: 0x100003E70, symSize: 0xC9 }
+...
